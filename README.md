@@ -38,7 +38,7 @@ https://github.com/supersleazy/SymptomChatbot
 ## Currently Working On
 
 ### Academic Task Assistant
-Repository: github.com/supersleazy/academic-task-assistant
+Repository: https://github.com/supersleazy/academic-task-assistant
 
 Building an intelligent academic assistant chatbot to help students manage coursework, deadlines, and academic queries through natural language interaction.
 
@@ -57,7 +57,7 @@ Python, spaCy, NLP, and backend system design
 
 ### Ethereum Wallet Fraud Detection Using Supervised Machine Learning
 
-Repository: github.com/supersleazy/ETH-fraud-wallet-detection
+Repository: https:/github.com/supersleazy/ETH-fraud-wallet-detection
 
 Building a machine learning-based fraud detection system to identify suspicious Ethereum wallets using behavioral transaction analysis and ERC20 token activity patterns.
 
