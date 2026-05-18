@@ -53,6 +53,8 @@ Tech stack:
 
 Python, spaCy, NLP, and backend system design
 
+---
+
 ### Ethereum Wallet Fraud Detection Using Machine Learning
 
 Repository: :contentReference[oaicite:0]{index=0}
