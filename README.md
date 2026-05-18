@@ -57,7 +57,7 @@ Python, spaCy, NLP, and backend system design
 
 ### Ethereum Wallet Fraud Detection Using Supervised Machine Learning
 
-Repository: https:/github.com/supersleazy/ETH-fraud-wallet-detection
+Repository: https://github.com/supersleazy/ETH-fraud-wallet-detection
 
 Building a machine learning-based fraud detection system to identify suspicious Ethereum wallets using behavioral transaction analysis and ERC20 token activity patterns.
 
