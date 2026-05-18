@@ -53,19 +53,29 @@ Tech stack:
 
 Python, spaCy, NLP, and backend system design
 
+### Ethereum Wallet Fraud Detection Using Machine Learning
+
+Repository: :contentReference[oaicite:0]{index=0}
+
+Building a machine learning-based fraud detection system to identify suspicious Ethereum wallets using behavioral transaction analysis and ERC20 token activity patterns.
+
+### Key Goals
+
+- Exploratory data analysis and fraud behavior investigation
+- Wallet-level behavioral feature analysis
+- Fraud classification using machine learning models
+- Explainable ML pipeline for Ethereum fraud detection
+- Visualization and interpretation of suspicious wallet patterns
+
+### Tech Stack
+
+Python, pandas, scikit-learn, matplotlib, seaborn, and Ethereum transaction analytics
+
 ---
 
 ## Profiles
 
 LinkedIn: https://linkedin.com/in/avnishraj  
 LeetCode: https://leetcode.com/u/supersleazy  
-
----
-
-## Currently Learning
-
-- System Design  
-- Advanced Data Structures  
-- Backend Development
 
 ---
