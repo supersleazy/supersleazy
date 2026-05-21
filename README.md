@@ -14,6 +14,13 @@ Tools: Git, Linux, MySQL
 
 ## Featured Projects
 
+### Ethereum Fraud Detection
+Machine learning project focused on Fraud Detection in the Ethereum blockchain using behavioral transaction analysis and supervised learning models including Logistic Regression, Random Forest, and XGBoost.
+
+https://github.com/supersleazy/ethereum-wallet-fraud-detection
+
+--- 
+
 ### University ERP System
 Role-based ERP system built using Java, Swing, and MySQL.
 
@@ -52,26 +59,6 @@ Key goals:
 Tech stack:
 
 Python, spaCy, NLP, and backend system design
-
----
-
-### Ethereum Wallet Fraud Detection Using Supervised Machine Learning
-
-Repository: https://github.com/supersleazy/ETH-fraud-wallet-detection
-
-Building a machine learning-based fraud detection system to identify suspicious Ethereum wallets using behavioral transaction analysis and ERC20 token activity patterns.
-
-### Key Goals
-
-- Exploratory data analysis and fraud behavior investigation
-- Wallet-level behavioral feature analysis
-- Fraud classification using machine learning models
-- Explainable ML pipeline for Ethereum fraud detection
-- Visualization and interpretation of suspicious wallet patterns
-
-### Tech Stack
-
-Python, pandas, scikit-learn, matplotlib, seaborn, and Ethereum transaction analytics
 
 ---
 
