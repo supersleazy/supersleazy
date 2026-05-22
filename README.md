@@ -17,7 +17,7 @@ Tools: Git, Linux, MySQL
 ### Ethereum Fraud Detection
 Machine learning project focused on Fraud Detection in the Ethereum blockchain using behavioral transaction analysis and supervised learning models including Logistic Regression, Random Forest, and XGBoost.
 
-https://github.com/supersleazy/ethereum-wallet-fraud-detection
+https://github.com/supersleazy/ethereum-fraud-detection
 
 --- 
 
